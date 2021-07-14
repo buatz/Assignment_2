@@ -7,7 +7,7 @@ import SignIn from './screen/SignIn';
 export default function App() {
   return (
     <View style={styles.container}>
-      <SignIn />
+    
       {/* <Home /> */}
       <StatusBar style="auto" />
     </View>
